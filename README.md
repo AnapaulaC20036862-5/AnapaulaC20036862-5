@@ -33,17 +33,6 @@
                       <a href="https://wa.me/55519******?" target="_blank">
                         <br />
                       </div>
-   
-                   
-                    <div id="div-fixa" class="flutuar" data-shrink="yes">
-                      
-                        <div class="flex-itens">
-                        <img src="C:\xampp\htdocs\pizzas man\what.png" alt="whatsapp">
-                        <a href="https://wa.me/55519**********?" target="_blank">
-                        </div>
-                        </a>
-        
-                  </div>
                </section>
               </main>
             </form>     
